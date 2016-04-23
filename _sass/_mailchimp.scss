@@ -3,5 +3,9 @@
 
   .button {
     background-color: #B60E00;
+
+    &:hover {
+      background-color: #DA5A51;
+    }
   }
 }
